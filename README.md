@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saranyaravi27&label=Profile%20views&color=0e75b6&style=flat" alt="saranyaravi27" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saranyaravi27" alt="saranyaravi27" /></a> </p>
-
 - 🌱 I’m currently learning **React js, JavaScript, MYSQL**
 
 - 💬 Ask me about **MS SQL, MERN**
